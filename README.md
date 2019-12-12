@@ -5,10 +5,10 @@ Clone from https://github.com/adbasner/TravelingSantaRubyHackNight.git
 
 In terminal, run 'ruby traveling_santa.rb'
 
-This is a simple version of traveling salesman. It finds the city with the shortest distance to the starting point, initially the north pole, then travles to that location. It then finds the shortest distance to any remaining location, then travels there. This repeats until all locations have been travelled to, then Santa returns home to the north pole.
+This program is the simplest possible way to solve the problem. It finds the city with the shortest distance from the starting point, initially the north pole, then travles to that location. It then finds the shortest distance to any remaining location, then travels there. This repeats until all locations have been travelled to, then Santa returns home to the north pole.
 
-It is not optimized, by analyzing all possible routes, which would likely produce a lower overall distance.
- 
+It is not optimized. Analyzing all possible routes would likely produce a lower overall distance, but require exponentially more computations.
+
 ## Description
 
 It's been been a rough year and only a handful of American cities have
