@@ -1,5 +1,12 @@
 ## Chicago Ruby Hack Night December 2019: Traveling Santa
 
+To Run:
+Clone from https://github.com/adbasner/TravelingSantaRubyHackNight.git
+
+In terminal, run 'ruby traveling_santa.rb'
+
+## Description
+
 It's been been a rough year and only a handful of American cities have
 any children making the "nice" list.
 
@@ -10,3 +17,4 @@ efficiently, starting and ending at his house at the north pole.
 These libraries might be helpful:
 * https://ruby-doc.org/stdlib-2.6.5/libdoc/csv/rdoc/CSV.html
 * https://github.com/kristianmandrup/haversine
+
